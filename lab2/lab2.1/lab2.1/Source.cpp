@@ -14,21 +14,21 @@ University* leaf(int x) {
 }
 
 University* create(University* root) {
-	University* previous=NULL, * t= NULL;
+	University* previous=NULL, * t=NULL;
 	int n, b, find;
 	cout << "n= ";
 	cin >> n;
 	if (!root) {
-		n--;
-		/*
+		n--;		
 		cout << "Input root: ";
-		cin >> b;*/
-		b = rand() % 50;
+		cin >> b;
+		/*b = rand() % 50;*/
 		root = leaf(b);
 	}
 	for (int i = 1; i <= n; i++) {
 		cout << "Input info: ";
 		cin >> b;
+		/*b = rand() % 50;*/
 		t = root;
 		find = 0;
 		while (t && !find) {

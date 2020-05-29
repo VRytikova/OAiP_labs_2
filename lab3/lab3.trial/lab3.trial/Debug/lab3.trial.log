@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\User\Documents\Projects\OAiP.2\lab3\lab3.trial\lab3.trial\Source.cpp(36,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+C:\Users\User\Documents\Projects\OAiP.2\lab3\lab3.trial\lab3.trial\Source.cpp(178,6): warning C4101: key: неиспользованная локальная переменная
+C:\Users\User\Documents\Projects\OAiP.2\lab3\lab3.trial\lab3.trial\Source.cpp(221,6): warning C4101: v: неиспользованная локальная переменная
+  lab3.trial.vcxproj -> C:\Users\User\Documents\Projects\OAiP.2\lab3\lab3.trial\Debug\lab3.trial.exe

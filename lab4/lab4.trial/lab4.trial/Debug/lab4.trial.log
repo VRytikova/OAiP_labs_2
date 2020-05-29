@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\User\Documents\Projects\OAiP.2\lab4\lab4.trial\lab4.trial\Source.cpp(120,16): warning C4156: удаление массива без использования формы оператора "delete", предусмотренной для массива; подставлена предусмотренная форма оператора
+C:\Users\User\Documents\Projects\OAiP.2\lab4\lab4.trial\lab4.trial\Source.cpp(120,16): warning C4154: удаление массива; выполнено преобразование к указателю
+  lab4.trial.vcxproj -> C:\Users\User\Documents\Projects\OAiP.2\lab4\lab4.trial\Debug\lab4.trial.exe
